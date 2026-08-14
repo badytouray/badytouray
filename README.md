@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Bady 👋
 
-<!--
-**badytouray/badytouray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Software Developer | React | JavaScript | Supabase
 
-Here are some ideas to get you started:
+I'm a junior developer focused on building practical web applications
+and developing strong software engineering fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning real-world problems into simple, usable products.
+
+### 🛠️ Tech Stack
+
+- JavaScript (ES6+)
+- React
+- React Router
+- Supabase
+- PostgreSQL / SQL
+- HTML5
+- CSS
+- Git & GitHub
+- Zod
+- React Hook Form
+
+### 🚀 Current Focus
+
+- Building full-stack applications with React and Supabase
+- Improving backend and database design
+- Writing cleaner, maintainable JavaScript
+- Learning TypeScript
+- Developing production-style development workflows
+
+### 📌 Featured Projects
+
+#### REDI
+Real-time workforce matching platform for event staffing.
+
+**Tech:** React, JavaScript, Supabase, PostgreSQL
+
+- Authentication and role-based access
+- Job creation and applications
+- Real-time messaging
+- Database security with RLS
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
+### 📚 Currently Learning
+
+TypeScript • Node.js • Backend Architecture • Testing • CI/CD
+
+### 📫 Connect
+
+[LinkedIn](YOUR_LINKEDIN)
